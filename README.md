@@ -53,7 +53,7 @@ My main focus is building reliable and maintainable automated tests that provide
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square\&logo=jenkins\&logoColor=white)
-![GitLab\_CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square\&logo=gitlab\&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square\&logo=gitlab\&logoColor=white)
 ![Allure](https://img.shields.io/badge/Allure-FF4F5B?style=flat-square)
 
 ### 📋 Test Management & Tools
@@ -127,7 +127,7 @@ Developed and maintained API automation using **Python, PyTest and Requests**.
 
 ### 🎭 UI Automation
 
-Worked with **Selenium and Playwright** for web application automation.
+Worked with **Selenium and Playwright** to automate web applications.
 
 * Developed and maintained UI automation suites
 * Automated functional and regression scenarios
@@ -214,26 +214,25 @@ My approach to QA:
 
 ## 📁 Featured Projects
 
-I'm building a portfolio of practical QA automation projects covering UI, API, databases and CI/CD.
-
 ### 🔌 API Automation Framework
 
 **Python · PyTest · Requests · PostgreSQL · Allure**
 
-A REST API automation framework demonstrating maintainable test architecture and backend testing practices.
+A maintainable API automation framework designed for testing REST services.
 
-**Planned coverage:**
+**Highlights:**
 
-* API functional testing
-* Positive and negative scenarios
-* Response validation
-* JSON schema validation
-* Authentication
-* Test fixtures
-* Parameterized tests
-* Database verification
+* REST API functional and integration testing
+* Positive and negative test scenarios
+* Response and schema validation
+* Database verification with SQL
+* Reusable API clients and fixtures
+* Test configuration management
 * Allure reporting
+* Docker support
 * CI/CD integration
+
+➡️ **[View repository](#)**
 
 ---
 
@@ -241,9 +240,9 @@ A REST API automation framework demonstrating maintainable test architecture and
 
 **Python · Playwright · PyTest · Allure**
 
-A web UI automation project focused on maintainable test architecture and reliable end-to-end testing.
+A web UI automation framework focused on maintainable test architecture and reliable end-to-end testing.
 
-**Planned coverage:**
+**Highlights:**
 
 * Page Object Model
 * Reusable fixtures
@@ -256,15 +255,17 @@ A web UI automation project focused on maintainable test architecture and reliab
 * Allure reporting
 * CI/CD integration
 
+➡️ **[View repository](#)**
+
 ---
 
 ### 🗄️ API & Database Testing
 
 **Python · PyTest · Requests · PostgreSQL**
 
-An integration testing project demonstrating how API behavior can be verified together with backend database state.
+An integration testing project demonstrating API testing together with backend database validation.
 
-**Planned coverage:**
+**Highlights:**
 
 * API request automation
 * Response validation
@@ -274,15 +275,17 @@ An integration testing project demonstrating how API behavior can be verified to
 * Integration scenarios
 * End-to-end validation
 
+➡️ **[View repository](#)**
+
 ---
 
 ### 🐳 QA Automation CI/CD
 
 **Docker · GitLab CI · PyTest · Allure**
 
-A CI/CD example demonstrating automated test execution inside a reproducible environment.
+A CI/CD project demonstrating automated test execution in a reproducible environment.
 
-**Planned coverage:**
+**Highlights:**
 
 * Dockerized test environment
 * Automated test execution
@@ -293,15 +296,7 @@ A CI/CD example demonstrating automated test execution inside a reproducible env
 * Failure artifacts
 * Test execution on pull requests
 
----
-
-## 📚 Education
-
-### Northern (Arctic) Federal University named after M.V. Lomonosov
-
-**Information Systems and Technologies**
-
-2024
+➡️ **[View repository](#)**
 
 ---
 
@@ -318,6 +313,16 @@ I'm currently focusing on improving my expertise in:
 * 🐳 Docker
 * 🧩 Maintainable automation frameworks
 * 📈 Improving test reliability and execution speed
+
+---
+
+## 📚 Education
+
+### Northern (Arctic) Federal University named after M.V. Lomonosov
+
+**Information Systems and Technologies**
+
+2024
 
 ---
 
